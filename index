@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dd</title>
+    <style>
+        header {
+            text-align: left;
+            font-size: 100px;
+           
+        }
+        footer {
+            text-align: center;
+        }
+        div {
+            width: 200;
+            height: 100;
+        }
+        .m { margin: 90px 200px 90px 100px; }
+        .g {  text-align: right; margin:5% }
+    </style>
+</head>
+<body>
+    <div class="m">
+    <header>
+        <p margin-left ><b>DoDo</b></p>
+    </header>
+    </div>
+        <div>
+            <p class="g"><a href="membership.html" target="_blank">회원가입</a> <a href="Login.html">로그인</a> </p>
+        </div>
+    <hr>
+    <main>
+        <section background-color: black;>
+            <p>dsfsdfsf</p>
+        </section>
+        <section>
+            <p>dfsfaffs f</p>
+        </section>
+    </main>
+    <hr>
+    <footer>
+ 
+        <p>If you can dream it,<br>you can do it.</p>
+
+    </footer>
+</body>
+</html>
